@@ -1,0 +1,28 @@
+
+.main_container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    padding: 25px;
+
+
+}
+
+.header{
+    /* background-color: green; */
+    flex: 1;
+
+}
+
+.tv_show_detail{
+    /* background-color: yellow; */
+    flex: 2;
+
+}
+
+.recommendations{
+    /* background-color: red; */
+    flex: 1;
+
+
+}
